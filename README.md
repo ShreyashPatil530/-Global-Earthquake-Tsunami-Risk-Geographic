@@ -8,7 +8,7 @@
 
 > **A comprehensive machine learning project predicting tsunami risk from earthquake data using advanced algorithms, geographic clustering, and feature engineering.**
 
-**🏆 Best Model Accuracy: 85.71% | AUC-ROC: 91.16% | Kaggle Medal: 🥇 Gold-Ready**
+**🏆 Best Model Accuracy: 85.71% | AUC-ROC: 91.16% | Kaggle Medal: 25+ upvotes**
 
 ---
 ![Project Banner](Gemini_Generated_Image_b0hnpfb0hnpfb0hn.png)
