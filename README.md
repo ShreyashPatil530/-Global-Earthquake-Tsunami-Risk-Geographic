@@ -12,24 +12,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Dataset](#-dataset)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Models & Results](#-models--results)
-- [Geographic Analysis](#-geographic-analysis)
-- [Visualizations](#-visualizations)
-- [Key Findings](#-key-findings)
-- [Usage Examples](#-usage-examples)
-- [Results & Metrics](#-results--metrics)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Citation](#-citation)
-
 ---
 
 ## 🎯 Overview
