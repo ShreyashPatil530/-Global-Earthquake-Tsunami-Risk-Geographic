@@ -27,7 +27,7 @@ This project analyzes **782 major earthquakes** worldwide to predict tsunami ris
 
 ---
 ## 🎯 Dashboard:-
-![Project Banner](Gemini_Generated_Image_b0hnpfb0hnpfb0hn.png)
+![Project Banner](01_eda_analysis.png)
 ---
 
 ## ✨ Features
