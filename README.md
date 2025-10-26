@@ -74,6 +74,8 @@ This project analyzes **782 major earthquakes** worldwide to predict tsunami ris
 - ✅ Classification reports (precision, recall, F1)
 
 ---
+## 📊 View Notebook On Kaggle:
+[Kaggle](https://www.kaggle.com/code/shreyashpatil217/global-earthquake-tsunami-risk-geographic)
 
 ## 📊 Dataset
 
@@ -110,53 +112,6 @@ tsunami      : Target variable (0=No, 1=Yes)
 
 ---
 
-## 📁 Project Structure
-
-```
-earthquake-tsunami-prediction/
-│
-├── README.md                          # This file
-├── LICENSE                            # MIT License
-├── requirements.txt                   # Python dependencies
-│
-├── data/
-│   └── earthquake_data_tsunami.csv   # Raw dataset (782 records)
-│
-├── notebooks/
-│   └── earthquake_tsunami_analysis.ipynb  # Main Kaggle notebook
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_preprocessing.py          # Data cleaning & feature engineering
-│   ├── model_training.py              # ML model training
-│   ├── model_evaluation.py            # Model evaluation metrics
-│   ├── clustering.py                  # Geographic clustering
-│   └── visualization.py               # Plotting functions
-│
-├── models/
-│   ├── random_forest_model.pkl        # Trained RF model
-│   ├── gradient_boosting_model.pkl    # Trained GB model
-│   └── logistic_regression_model.pkl  # Trained LR model
-│
-├── outputs/
-│   ├── 01_eda_analysis.png            # EDA visualization
-│   ├── 02_correlation_analysis.png    # Correlation heatmap
-│   ├── 03_risk_assessment.png         # Risk profiling
-│   ├── 04_geographic_clustering.png   # Zone identification
-│   ├── 05_model_evaluation.png        # Model comparison
-│   ├── 06_feature_importance.png      # Feature analysis
-│   ├── 07_cross_validation.png        # CV results
-│   └── 08_summary_dashboard.png       # Executive summary
-│
-└── docs/
-    ├── INSTALLATION.md                # Setup guide
-    ├── USAGE.md                       # How to use
-    ├── MODEL_DETAILS.md               # Model specifications
-    └── RESULTS.md                     # Detailed results
-```
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites
@@ -167,7 +122,7 @@ earthquake-tsunami-prediction/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/earthquake-tsunami-prediction.git
+git clone https://github.com/shreyashpatil530/earthquake-tsunami-prediction.git
 cd earthquake-tsunami-prediction
 ```
 
@@ -312,22 +267,7 @@ RandomForestClassifier(
 
 ---
 
-## 📊 Visualizations
 
-All visualizations are saved in `outputs/` directory:
-
-| # | Visualization | File | Description |
-|----|---|---|---|
-| 1 | EDA Analysis | `01_eda_analysis.png` | 9-panel exploration: distributions, trends, geographic spread |
-| 2 | Correlation Matrix | `02_correlation_analysis.png` | Feature correlations and tsunami triggers |
-| 3 | Risk Assessment | `03_risk_assessment.png` | Risk profiles by category and depth |
-| 4 | Geographic Zones | `04_geographic_clustering.png` | 5 identified high-risk regions |
-| 5 | Model Evaluation | `05_model_evaluation.png` | Confusion matrices & ROC curves (all 3 models) |
-| 6 | Feature Importance | `06_feature_importance.png` | Which features predict tsunamis |
-| 7 | Cross-Validation | `07_cross_validation.png` | Model stability across 5 folds |
-| 8 | Summary Dashboard | `08_summary_dashboard.png` | Executive summary of all results |
-
----
 
 ## 💡 Key Findings
 
@@ -473,16 +413,6 @@ Actual No     101     19      (Specificity: 84%)
 
 ---
 
-## 📚 Documentation
-
-For more detailed information, see:
-
-- **[Installation Guide](docs/INSTALLATION.md)** - Setup instructions
-- **[Usage Guide](docs/USAGE.md)** - How to use models
-- **[Model Details](docs/MODEL_DETAILS.md)** - Technical specifications
-- **[Results Report](docs/RESULTS.md)** - Comprehensive results
-
----
 
 ## 🔧 Technologies Used
 
@@ -565,18 +495,18 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{earthquake_tsunami_2024,
-  author = {Your Name},
+  author = {Shreyash Patil},
   title = {Global Earthquake-Tsunami Risk Assessment: ML Prediction & Geographic Analysis},
   year = {2024},
-  url = {https://github.com/yourusername/earthquake-tsunami-prediction},
+  url = {https://github.com/shreyashpatil530/earthquake-tsunami-prediction},
   note = {Kaggle Dataset: Global Earthquake-Tsunami Risk Assessment}
 }
 ```
 
 Or simple text citation:
 ```
-Your Name. (2024). Global Earthquake-Tsunami Risk Assessment: ML Prediction & Geographic Analysis. 
-GitHub: https://github.com/yourusername/earthquake-tsunami-prediction
+Shreyash Patile. (2025). Global Earthquake-Tsunami Risk Assessment: ML Prediction & Geographic Analysis. 
+GitHub: https://github.com/shreyash patil/earthquake-tsunami-prediction
 ```
 
 ---
@@ -592,15 +522,12 @@ GitHub: https://github.com/yourusername/earthquake-tsunami-prediction
 ## 📧 Contact & Support
 
 **Questions or Issues?**
-- 📝 Open an [GitHub Issue](https://github.com/yourusername/earthquake-tsunami-prediction/issues)
-- 💬 Start a [Discussion](https://github.com/yourusername/earthquake-tsunami-prediction/discussions)
+- 📝 Open an [GitHub Issue](https://github.com/shreyashpatil530/-Global-Earthquake-Tsunami-Risk-Geographic/issues)
+- 💬 Start a [Discussion](https://github.com/shreyashpatil530/-Global-Earthquake-Tsunami-Risk-Geographic/discussions)
 - 📧 Email: your.email@example.com
 
 **Connect:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📊 [Kaggle](https://www.kaggle.com/yourprofile)
-
+- 📊 [Kaggle](https://www.kaggle.com/shreyashpatil217)
 ---
 
 ## 🌟 Show Your Support
