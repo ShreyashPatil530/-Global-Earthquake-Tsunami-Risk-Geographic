@@ -11,8 +11,7 @@
 **🏆 Best Model Accuracy: 85.71% | AUC-ROC: 91.16% | Kaggle Medal: 🥇 Gold-Ready**
 
 ---
-![Project Banner](![Uploading Gemini_Generated_Image_b0hnpfb0hnpfb0hn.png…]()
-)
+![Project Banner](Gemini_Generated_Image_b0hnpfb0hnpfb0hn.png)
 ---
 
 ## 🎯 Overview
